@@ -35,7 +35,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/filoquin/cl-blancoamor.git',
+        'https://github.com/blancoamor-2-0/cl-blancoamor.git',
         'git@code.gestionblancoamor.com:odoo-13/ba_sales.git -b 13.0 ba-ba-sales',
         'git@code.gestionblancoamor.com:odoo-13/ba_base.git -b 13.0 ba-ba-base',
         'git@code.gestionblancoamor.com:odoo-13/ba_delivery_zone.git -b 13.0 ba-ba-stock',
@@ -47,6 +47,8 @@
         'git@code.gestionblancoamor.com:filoquin/ux.git -b 13.0 varios-ba-ux',
         'git@code.gestionblancoamor.com:odoo-13/ks_dashboard_ninja.git -b 13.0 varios-ks_dashboard_ninja',
         'git@code.gestionblancoamor.com:odoo-13/ba_hr -b 13.0 ba-ba_hr',
+        # mercado pago
+        'https://github.com/plugberry/mercadopago.git -b 13.0',
         'https://github.com/filoquin/account_debt_management.git -b 13.0 filoquin/varios-account-debt-management',
         'https://github.com/ingadhoc/account-analytic.git -b 13.0 adhoc-account-analytic',
         'https://github.com/ingadhoc/account-invoicing.git -b 13.0 adhoc-account-invoicing',
