@@ -35,14 +35,14 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/blancoamor-2-0/cl-blancoamor.git',
-        'https://github.com/blancoamor-2-0/ba_sales.git blancoamor/ba_sales',
-        'https://github.com/blancoamor-2-0/ba_base.git blancoamor/ba_base',
-        'https://github.com/blancoamor-2-0/ba_delivery_zone.git blancoamor/ba_delivery_zone',
-        'https://github.com/blancoamor-2-0/ba_product.git blancoamor/ba_product',
-        'https://github.com/blancoamor-2-0/ba_purchase.git blancoamor/ba_purchase',
-        'https://github.com/blancoamor-2-0/ba_website.git blancoamor/ba_website',
-        'https://github.com/blancoamor-2-0/ba_hr.git blancoamor/ba_hr',
+        'git@github.com:blancoamor-2-0/cl-blancoamor.git',
+        'git@github.com:blancoamor-2-0/ba_sales.git blancoamor/ba_sales',
+        'git@github.com:blancoamor-2-0/ba_base.git blancoamor/ba_base',
+        'git@github.com:blancoamor-2-0/ba_delivery_zone.git blancoamor/ba_delivery_zone',
+        'git@github.com:blancoamor-2-0/ba_product.git blancoamor/ba_product',
+        'git@github.com:blancoamor-2-0/ba_purchase.git blancoamor/ba_purchase',
+        'git@github.com:blancoamor-2-0/ba_website.git blancoamor/ba_website',
+        'git@github.com:blancoamor-2-0/ba_hr.git blancoamor/ba_hr',
 
         'git@code.gestionblancoamor.com:odoo-13/ba_campus.git blancoamor/ba_hr',
         'git@code.gestionblancoamor.com:filoquin/website_themes.git varios/website_themes',
@@ -50,7 +50,7 @@
         'git@code.gestionblancoamor.com:odoo-13/ks_dashboard_ninja.git varios/ks_dashboard_ninja',
 
         # mercado pago
-        'https://github.com/plugberry/mercadopago.git -b 13.0',
+        'https://github.com/plugberry/mercadopago.git',
         'https://github.com/filoquin/account_debt_management.git filoquin/varios-account-debt-management',
         'https://github.com/ingadhoc/account-analytic.git adhoc/account-analytic',
         'https://github.com/ingadhoc/account-invoicing.git adhoc/account-invoicing',
@@ -60,7 +60,7 @@
         'https://github.com/ingadhoc/product.git adhoc/product',
         'https://github.com/ingadhoc/purchase.git adhoc/purchase',
         'https://github.com/ingadhoc/stock.git adhoc/stock',
-        'https://github.com/ingadhoc/account-financial-tools.git account-adhoc/financial-tools',
+        'https://github.com/ingadhoc/account-financial-tools.git adhoc/account-financial-tools',
         'https://github.com/ingadhoc/account-payment.git adhoc/account-payment',
         'https://github.com/ingadhoc/miscellaneous.git adhoc/miscellaneous',
         'https://github.com/ingadhoc/multi-store.git adhoc/multi-store',
