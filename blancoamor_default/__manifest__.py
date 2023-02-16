@@ -50,7 +50,7 @@
         'git@code.gestionblancoamor.com:odoo-13/ks_dashboard_ninja.git varios/ks_dashboard_ninja',
 
         # mercado pago
-        #'https://github.com/plugberry/mercadopago.git',
+        'https://github.com/plugberry/mercadopago.git',
         
         'https://github.com/filoquin/account_debt_management.git varios/account-debt-management',
         'https://github.com/ingadhoc/account-analytic.git adhoc/account-analytic',
