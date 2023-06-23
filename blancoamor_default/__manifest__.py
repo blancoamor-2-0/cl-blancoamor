@@ -77,6 +77,7 @@
         'https://github.com/OCA/sale-financial.git oca/sale-financial',
         'https://github.com/OCA/server-ux.git oca/server-ux',
         'https://github.com/OCA/web.git oca/web',
+        'https://github.com/OCA/website.git oca/website',
         'https://github.com/OCA/account-financial-reporting.git oca/account-financial-reporting',
         'https://github.com/OCA/geospatial.git oca/geospatial',
         'https://github.com/OCA/hr-holidays.git oca/hr-holidays',
