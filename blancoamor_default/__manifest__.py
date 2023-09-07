@@ -107,6 +107,7 @@
         'https://github.com/OCA/payroll.git oca/payroll',
         'https://github.com/OCA/e-commerce.git oca/e-commerce',
         'https://github.com/OCA/delivery-carrier.git oca/delivery-carrier',
+        'https://github.com/odoomates/odooapps varios/odooapps',
 
         # 'git@code.gestionblancoamor.com:odoo-13/blancoamor.git'
 
