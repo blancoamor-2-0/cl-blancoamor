@@ -44,7 +44,8 @@
         'git@github.com:blancoamor-2-0/ba_website.git blancoamor/ba_website',
         'git@github.com:blancoamor-2-0/ba_hr.git blancoamor/ba_hr',
 
-        'git@code.gestionblancoamor.com:odoo-13/ba_campus.git blancoamor/ba_hr',
+        # 'git@code.gestionblancoamor.com:odoo-13/ba_campus.git blancoamor/ba_hr',
+        'git@github.com:blancoamor-2-0/ba_campus.git blancoamor/ba_campus',
         # 'git@code.gestionblancoamor.com:filoquin/website_themes.git varios/website_themes',
         'git@github.com:blancoamor-2-0/website_themes.git varios/website_themes',
         'git@code.gestionblancoamor.com:filoquin/ux.git varios/ba-ux',
