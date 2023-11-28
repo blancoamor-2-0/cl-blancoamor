@@ -48,6 +48,7 @@
         'git@github.com:blancoamor-2-0/website_themes.git varios/website_themes',
         'git@github.com:blancoamor-2-0/ba_ux.git varios/ba-ux',
         'git@github.com:blancoamor-2-0/ks_dashboard_ninja.git varios/ks_dashboard_ninja',
+        'https://github.com/filoquin/odoo_dhtmlxgantt.git varios/odoo_dhtmlxgantt -b dev-13.0',
 
         # mercado pago
         'https://github.com/plugberry/mercadopago.git -b 13.0 varios/mercadopago',
