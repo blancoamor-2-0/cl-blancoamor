@@ -45,13 +45,13 @@
         'git@github.com:blancoamor-2-0/ba_hr.git blancoamor/ba_hr',
 
         'git@github.com:blancoamor-2-0/ba_campus.git blancoamor/ba_campus',
+        # Desarrollos Gustavo
+        'https://github.com/blancoamor-2-0/ba_migration varios/ba_migration',
+        
         'git@github.com:blancoamor-2-0/website_themes.git varios/website_themes',
         'git@github.com:blancoamor-2-0/ba_ux.git varios/ba-ux',
         'git@github.com:blancoamor-2-0/ks_dashboard_ninja.git varios/ks_dashboard_ninja',
         'https://github.com/filoquin/odoo_dhtmlxgantt.git varios/odoo_dhtmlxgantt -b dev-13.0',
-
-        # Desarrollos Gustavo
-        'https://github.com/blancoamor-2-0/ba_migration varios/ba_migration',
 
         # mercado pago
         'https://github.com/plugberry/mercadopago.git -b 13.0 varios/mercadopago',
