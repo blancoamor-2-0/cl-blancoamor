@@ -46,7 +46,7 @@
 
         'git@github.com:blancoamor-2-0/ba_campus.git blancoamor/ba_campus',
         # Desarrollos Gustavo
-        'https://github.com/blancoamor-2-0/ba_migration varios/ba_migration',
+        'git@github.com:blancoamor-2-0/ba_migration.git varios/ba_migration',
         
         'git@github.com:blancoamor-2-0/website_themes.git varios/website_themes',
         'git@github.com:blancoamor-2-0/ba_ux.git varios/ba-ux',
