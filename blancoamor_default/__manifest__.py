@@ -50,6 +50,9 @@
         'git@github.com:blancoamor-2-0/ks_dashboard_ninja.git varios/ks_dashboard_ninja',
         'https://github.com/filoquin/odoo_dhtmlxgantt.git varios/odoo_dhtmlxgantt -b dev-13.0',
 
+        # Desarrollos Gustavo
+        'https://github.com/blancoamor-2-0/ba_migration varios/ba_migration',
+
         # mercado pago
         'https://github.com/plugberry/mercadopago.git -b 13.0 varios/mercadopago',
         
