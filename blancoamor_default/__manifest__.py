@@ -72,6 +72,7 @@
         'https://github.com/ingadhoc/project.git adhoc/project',
         'https://github.com/ingadhoc/sale.git adhoc/sale ',
         'https://github.com/ingadhoc/website.git adhoc/website',
+        'https://github.com/ingadhoc/aeroo_reports.git adhoc/aeroo_reports',
         'https://github.com/hormigaG/odoo-argentina-ce.git -b 13.0_BA adhoc/odoo-argentina-ce',
         'https://github.com/OCA/account-analytic.git oca/account-analytic',
         'https://github.com/OCA/crm.git oca/crm',
@@ -120,6 +121,7 @@
         'odoo regaby/odoo-ce:13.0',
         # 'postgres postgres:10.1-alpine',
         'postgres mdillon/postgis:11-alpine',
+        'aeroo adhoc/aeroo-docs:latest',
         #'nginx nginx'
     ]
     # 'base_dir': '/opt/odoo/docker_files/'
