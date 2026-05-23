@@ -48,9 +48,9 @@
         # Desarrollos Gustavo
         'git@github.com:blancoamor-2-0/ba_migration.git varios/ba_migration',
         # nahe
-        'git@github.com:nahe-consulting-group/product_prices_update_extra.git varios/nahe'
+        'git@github.com:nahe-consulting-group/product_prices_update_extra.git varios/nahe',
         # mountrix
-        'git@github.com:Mountrix/mountrix-blancoamor.git varios/mountrix -b main'
+        'git@github.com:Mountrix/mountrix-blancoamor.git varios/mountrix -b main',
         
         'git@github.com:blancoamor-2-0/website_themes.git varios/website_themes',
         'git@github.com:blancoamor-2-0/ba_ux.git varios/ba-ux',
