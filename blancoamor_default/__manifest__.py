@@ -77,7 +77,8 @@
         'https://github.com/ingadhoc/sale.git adhoc/sale ',
         'https://github.com/ingadhoc/website.git adhoc/website',
         'https://github.com/ingadhoc/aeroo_reports.git adhoc/aeroo_reports',
-        'https://github.com/hormigaG/odoo-argentina-ce.git -b 13.0_BA adhoc/odoo-argentina-ce',
+        # 'https://github.com/hormigaG/odoo-argentina-ce.git -b 13.0_BA adhoc/odoo-argentina-ce',
+        'https://github.com/blancoamor-2-0/odoo-argentina-ce.git -b 13.0_BA adhoc/odoo-argentina-ce',
         'https://github.com/OCA/account-analytic.git oca/account-analytic',
         'https://github.com/OCA/crm.git oca/crm',
         'https://github.com/OCA/hr-expense.git oca/hr-expense',
@@ -116,6 +117,10 @@
         'https://github.com/OCA/payroll.git oca/payroll',
         'https://github.com/OCA/e-commerce.git oca/e-commerce',
         'https://github.com/OCA/delivery-carrier.git oca/delivery-carrier',
+
+        'https://github.com/OCA/account-reconcile.git oca/account-reconcile',
+        'https://github.com/OCA/margin-analysis.git oca/margin-analysis',
+        
         'https://github.com/odoomates/odooapps varios/odooapps',
 
         # 'git@code.gestionblancoamor.com:odoo-13/blancoamor.git'
